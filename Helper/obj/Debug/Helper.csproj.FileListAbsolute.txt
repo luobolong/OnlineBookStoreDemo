@@ -1,0 +1,17 @@
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\Helper.dll
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\Helper.pdb
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\Dapper.dll
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\System.Security.AccessControl.dll
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\System.Security.Permissions.dll
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\System.Security.Principal.Windows.dll
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\Dapper.xml
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\System.Security.AccessControl.xml
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\System.Security.Permissions.xml
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\bin\Debug\System.Security.Principal.Windows.xml
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\obj\Debug\Helper.csproj.CopyComplete
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\obj\Debug\Helper.dll
+E:\myworkspace\VisualStudioC#-workspace\OnlineBookStore\Helper\obj\Debug\Helper.pdb
